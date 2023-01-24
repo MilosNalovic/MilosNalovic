@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer/ Hr generalist/ Techonlogy geek
 -----------------------------------------
 
-My full-time profession is as HR generalist @ School of electrical engineering. I have a passion for programming and started with PHP in 2017 when I learned OOP concepts. Now I am into front-end development javascript -react.
+My full-time profession is as HR generalist @ School of electrical engineering. I have a passion for programming and i've started with PHP in 2017 when I learned OOP concepts. Now I am into front-end development javascript -react.
 
 * 🌍  I'm based in Belgrade, Serbia
 * ✉️  You can contact me at [milos.nalovic@gmail.com](mailto:milos.nalovic@gmail.com)
