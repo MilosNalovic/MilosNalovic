@@ -8,7 +8,7 @@ My full-time profession is as HR generalist @ School of electrical engineering. 
 
 * 🌍  I'm based in Belgrade, Serbia
 * ✉️  You can contact me at [milos.nalovic@gmail.com](mailto:milos.nalovic@gmail.com)
-* 🤝  I'm open to collaborating on react projects
+* 🤝  I'm open to collaborating on React projects
 
 ### Skills
 
